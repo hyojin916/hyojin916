@@ -21,4 +21,4 @@ When I see the whole situation, I can create more wonderful results than just so
 
 ## Contact.
 - Gmail: gywlsh274@gmail.com
-- Blog: https://hyothorhyo.tistory.com/
+

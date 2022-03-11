@@ -16,7 +16,7 @@ When I see the whole situation, I can create more wonderful results than just so
 <img alt="React" src ="https://img.shields.io/badge/-HTML-red"/>
 <img alt="React" src ="https://img.shields.io/badge/-CSS-lightgreen"/>
 
-<img alt="React" src ="https://img.shields.io/badge/-Git%2Fgithub-black"/>
+<img alt="React" src ="https://img.shields.io/badge/-Git%2FGithub-black"/>
 
 
 ## Contact.

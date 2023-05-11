@@ -1,24 +1,38 @@
-![제목 추가 (1)](https://user-images.githubusercontent.com/74811374/124096134-46ef4400-da95-11eb-827a-f301a749f460.png)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=c9e861&height=200&text=hyojin✪‿✪&fontColor=304680)
 
 
 ## About me.
+<div align="start">
 Hi, I'm a frontend developer who pursues complete project.</br>
 I want to become a developer who approaches perfection through repetition of completion. </br>
 I believe that I can learn and make values from every experience.</br>
 The most important factors are cooperation and communication when I am working.</br>
 When I see the whole situation, I can create more wonderful results than just solve the small task that is close at hand.</br>
+</div>
 
 ## Skills & Tools.
-<img alt="React" src ="https://img.shields.io/badge/-React-skyblue"/> <img alt="React" src ="https://img.shields.io/badge/-Recoil-%233f50b5"/>
-<img alt="React" src ="https://img.shields.io/badge/-JavaScript-yellow"/>
-<img alt="React" src ="https://img.shields.io/badge/-sass%2Fscss-pink"/>
-<img alt="React" src ="https://img.shields.io/badge/-styled--components-brown"/>
-<img alt="React" src ="https://img.shields.io/badge/-HTML-red"/>
-<img alt="React" src ="https://img.shields.io/badge/-CSS-lightgreen"/>
+<div align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/recoil-black?style=flat-square&logo=-Recoil&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
 
-<img alt="React" src ="https://img.shields.io/badge/-Git%2FGithub-black"/>
 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Git/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
-## Contact.
-- Gmail: gywlsh274@gmail.com
+</div>
 
+ 
+## 
+<a href="https://hyothorhyo.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/> <a href="https://hyothorhyo.tistory.com/"><img src="https://img.shields.io/badge/Gmail-005FF9?style=flat-square&logo=mail&logoColor=white"/>
+  
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23313E62&title_bg=%23E3CDB5&icon=github.svg&icon_color=%23DBD9D9&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+</div>

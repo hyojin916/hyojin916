@@ -12,6 +12,9 @@ The most important factors are cooperation and communication when I am working.<
 When I see the whole situation, I can create more wonderful results than just solve the small task that is close at hand.</br>
 </div>
 
+</br>
+</br>
+
 ## Skills & Tools.
 <div align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -28,8 +31,9 @@ When I see the whole situation, I can create more wonderful results than just so
 
 </div>
 
- 
-## 
+</br>
+</br>
+
 <a href="https://hyothorhyo.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/> <a href="https://hyothorhyo.tistory.com/"><img src="https://img.shields.io/badge/Gmail-005FF9?style=flat-square&logo=mail&logoColor=white"/>
   
   

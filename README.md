@@ -34,7 +34,7 @@ When I see the whole situation, I can create more wonderful results than just so
 </br>
 </br>
 
-<a href="https://hyothorhyo.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/> <a href="https://hyothorhyo.tistory.com/"><img src="https://img.shields.io/badge/Gmail-005FF9?style=flat-square&logo=mail&logoColor=white"/>
+<a href="https://hyothorhyo.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/> <a href="gywlsh274@gmail.com"><img src="https://img.shields.io/badge/Gmail-005FF9?style=flat-square&logo=mail&logoColor=white"/>
   
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23313E62&title_bg=%23E3CDB5&icon=github.svg&icon_color=%23DBD9D9&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)

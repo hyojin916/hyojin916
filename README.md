@@ -5,7 +5,7 @@
 
 ## About me.
 <div align="start">
-Hi, I'm a frontend developer who pursues complete project.</br>
+Hi, I'm a web developer who pursues complete project.</br>
 I want to become a developer who approaches perfection through repetition of completion. </br>
 I believe that I can learn and make values from every experience.</br>
 The most important factors are cooperation and communication when I am working.</br>

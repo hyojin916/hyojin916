@@ -22,13 +22,12 @@ When I see the whole situation, I can create more wonderful results than just so
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/recoil-black?style=flat-square&logo=-Recoil&logoColor=white"/>
 <img src="https://img.shields.io/badge/zustand-brown?style=flat-square"/>
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/tailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/><img src="https://img.shields.io/badge/AWS cloudfront-663ABF?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/> <img src="https://img.shields.io/badge/AWS cloudfront-663ABF?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Git/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
 
